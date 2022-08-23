@@ -1,8 +1,8 @@
-# ProbabilityProject
+# Probabilit yProject
 Solves the probability count of a coin toss using the Bayesian approach.
 
 
--- PROBLEM TO SOLVE
+# Problem Description 
 
 You have found a dodgy bookmaker who plays a strange game. He has two coins, both biased. The first one
 comes up heads 70% of the time. The other comes up tails 60% of the time. To you, they look identical.
@@ -32,3 +32,5 @@ marker will make 10000 runs as described above, each time with a different coin 
 function, 100 in a row with each coin). Your profit will be taken to be the average profit over these 1000
 runs. A profit of about 33.6 is achievable using all information, 22 is achievable without making use of the
 state variable, and 10 is achievable using a constant output.
+
+# What I learned
